@@ -1,2 +1,2 @@
 # hola-mundo
-Repositorio sanbox
+Repositorio sandbox
